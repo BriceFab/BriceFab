@@ -17,18 +17,11 @@ Contact: fabrriv@proton.me
 - Unix
 
 ### Framework
-- [Symfony](https://github.com/symfony)
-
-- [Nuxt](https://nuxt.com)
-- [Next](https://nextjs.org)
-
-- [Tailwind](https://github.com/tailwindlabs/tailwindcss)
-- [Bootstrap](https://getbootstrap.com)
-
-- [Unity](https://unity.com)
-- [Flutter](https://github.com/flutter/flutter)
+[PHP] Symfony
+[JS] Nuxt, Next
+[CSS] Tailwind, Boostrap
+[App] Flutter, AndroidStudio
+[3D] Unity, Kudan
 
 ### CMS
-- [Drupal](https://github.com/drupal)
-- [WordPress](https://github.com/WordPress)
-- [AIO](iomedia.ch)
+AIO, Drupal, WordPress
