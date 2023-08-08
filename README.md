@@ -18,7 +18,7 @@ Contact: fabrriv@proton.me
 
 ### Frameworks
 [PHP] Symfony
-[JS] Nuxt, Next
+[JS] Nuxt, Next, Electron
 [CSS] Tailwind, Boostrap
 [App] ReactNative, Flutter, AndroidStudio
 [3D] Unity, Kudan
