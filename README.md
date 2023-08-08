@@ -5,7 +5,7 @@
 Contact: fabrriv@proton.me
 
 ## Most used
-### Language
+### Languages
 - JavaScript (vue, react, node)
 - PHP
 - HTML, JSON, XML
@@ -16,7 +16,7 @@ Contact: fabrriv@proton.me
 - C++, C#
 - Unix
 
-### Framework
+### Frameworks
 [PHP] Symfony
 [JS] Nuxt, Next
 [CSS] Tailwind, Boostrap
