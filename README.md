@@ -6,7 +6,7 @@ Contact: fabrriv@proton.me
 
 ## Most used
 ### Language
-- JavaScript (modern, node)
+- JavaScript (vue, react, node)
 - PHP
 - HTML, JSON, XML
 - CSS (scss, sass)
@@ -20,7 +20,7 @@ Contact: fabrriv@proton.me
 [PHP] Symfony
 [JS] Nuxt, Next
 [CSS] Tailwind, Boostrap
-[App] Flutter, AndroidStudio
+[App] ReactNative, Flutter, AndroidStudio
 [3D] Unity, Kudan
 
 ### CMS
