@@ -10,11 +10,11 @@ Contact: fabrriv@proton.me
 - PHP
 - HTML, JSON, XML
 - CSS (scss, sass)
-- Java
 - SQL / noSQL
+- Java
 - Dart
 - C++, C#
-- Unix
+- Unix (cmd, bash)
 
 ### Frameworks
 [PHP] Symfony
