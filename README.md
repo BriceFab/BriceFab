@@ -21,7 +21,7 @@ Contact: fabrriv@proton.me
 [JS] Nuxt, Next, Electron
 [CSS] Tailwind, Boostrap
 [App] ReactNative, Flutter, AndroidStudio
-[3D] Unity, Kudan SLAM
+[3D] Unity, Kudan SLAM, D3Js
 
 ### CMS
 AIO, Drupal, WordPress
