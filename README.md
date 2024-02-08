@@ -2,8 +2,6 @@
 
 🇨🇭 FullStack Developper
 
-Contact: fabrriv@proton.me
-
 ## Most used
 ### Languages
 - JavaScript (vue, react, node, stimulus, turbo)
