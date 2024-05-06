@@ -8,6 +8,7 @@
 - PHP
 - HTML, JSON, XML
 - CSS (scss, sass)
+- Dart (flutter), react-native
 - SQL / noSQL
 - Java
 - Dart
