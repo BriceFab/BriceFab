@@ -5,9 +5,9 @@
 ## Most used
 ### Frameworks
 - [PHP] Symfony / Symfony UX
-- [JS] Nuxt, Next, Electron
+- [JS] Nuxt, Next
 - [CSS] Tailwind, Boostrap
-- [App] Flutter, ReactNative
+- [App] Flutter, ReactNative, Electron
 - [3D] Unity, Kudan SLAM, D3Js
 
 ### Languages
