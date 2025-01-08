@@ -3,6 +3,13 @@
 🇨🇭 FullStack Developper
 
 ## Most used
+### Frameworks
+- [PHP] Symfony / Symfony UX
+- [JS] Nuxt, Next, Electron
+- [CSS] Tailwind, Boostrap
+- [App] Flutter, ReactNative
+- [3D] Unity, Kudan SLAM, D3Js
+
 ### Languages
 - JavaScript (vue, react, node, stimulus, turbo)
 - PHP
@@ -14,13 +21,6 @@
 - Dart
 - C++, C#
 - Unix (cmd, bash)
-
-### Frameworks
-[PHP] Symfony / Symfony UX
-[JS] Nuxt, Next, Electron
-[CSS] Tailwind, Boostrap
-[App] ReactNative, Flutter, AndroidStudio
-[3D] Unity, Kudan SLAM, D3Js
 
 ### CMS
 AIO, Drupal, WordPress
